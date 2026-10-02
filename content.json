@@ -1,0 +1,81 @@
+{
+  "slides": [
+    {
+      "image": "assets/koszarhegy.webp",
+      "label": "Kőszárhegy"
+    },
+    {
+      "image": "assets/polgardi.webp",
+      "label": "Polgárdi"
+    },
+    {
+      "image": "assets/many.webp",
+      "label": "Mány"
+    }
+  ],
+  "mines": [
+    {
+      "title": "Polgárdi I.",
+      "material": "Mészkő",
+      "short": "A polgárdi bányaterület jellemző anyaga a tömör mészkő. Az innen származó kőanyagok között vízépítési felhasználásra is alkalmas anyag szerepel.",
+      "long": "A Polgárdi I. bánya a vállalkozás mészkőhöz kapcsolódó bányászati hátterének része. Az egyes kőanyagok felhasználását a konkrét termék tulajdonságai és a tervezett alkalmazás követelményei határozzák meg.",
+      "image": "assets/polgardi.webp"
+    },
+    {
+      "title": "Kőszárhegy I.",
+      "material": "Mészkő",
+      "short": "A kőszárhegyi bányaterület tömör mészkőhöz kapcsolódik. Kőanyagai között vízépítési célokra is alkalmas anyag található.",
+      "long": "A Kőszárhegy I. bánya a mészkőbányászati helyszínek egyike. A kőzet építési felhasználása az adott anyag igazolt jellemzőihez és a feladat műszaki követelményeihez igazodik.",
+      "image": "assets/koszarhegy.webp"
+    },
+    {
+      "title": "Sümeg V.",
+      "material": "Mészkő",
+      "short": "A sümegi bányaterület jellemző kőanyaga a tömör mészkő. Az innen származó anyagok vízépítési felhasználáshoz is kapcsolódnak.",
+      "long": "A Sümeg V. bánya a vállalkozás mészkőhöz kapcsolódó helyszínei közé tartozik. A területről származó anyagok konkrét felhasználásánál az adott termék műszaki jellemzői az irányadók.",
+      "image": null
+    },
+    {
+      "title": "Mány I.",
+      "material": "Dolomit",
+      "short": "A mányi bányaterület jellemző anyaga a dolomit. Az innen származó alapanyag elsősorban útépítési felhasználáshoz kapcsolódik.",
+      "long": "A Mány I. bánya a dolomithoz kapcsolódó bányászati háttér része. Az útépítésben az alapanyag szemcsemérete és műszaki tulajdonságai meghatározók; a megfelelő termék kiválasztása mindig az adott feladat követelményei alapján történik.",
+      "image": "assets/many.webp"
+    },
+    {
+      "title": "Iszkaszentgyörgy IV.",
+      "material": "Dolomit",
+      "short": "Az iszkaszentgyörgyi bányaterület dolomit alapanyagot ad. Jellemző felhasználási iránya az útépítés.",
+      "long": "Az Iszkaszentgyörgy IV. bánya a vállalkozás dolomithoz kapcsolódó területei közé tartozik. Az innen származó anyagok alkalmazásánál az adott termék igazolt tulajdonságait és a tervezett beépítés követelményeit kell figyelembe venni.",
+      "image": null
+    },
+    {
+      "title": "Székesfehérvár III–IV.",
+      "material": "Gránit",
+      "short": "A székesfehérvári gránitbányákhoz gránittömbök és gránitmurva kapcsolódnak. Ezek a természetes kőanyagok dekoratív kialakításokban is szerepet kaphatnak.",
+      "long": "A Székesfehérvár III–IV. bányák a vállalkozás gránithoz kapcsolódó helyszínei. A tömbök és a murva eltérő megjelenési formát képviselnek, ezért felhasználásuknál a méret, az anyagjellemzők és a tervezett kialakítás egyaránt fontos.",
+      "image": "assets/szekesfehervar.webp"
+    },
+    {
+      "title": "Pátka I.",
+      "material": "Gránit",
+      "short": "A pátkai bányaterület jellemző kőzete a gránit. A hozzá kapcsolódó anyagok között gránittömbök és gránitmurva szerepelnek.",
+      "long": "A Pátka I. bánya a gránitbányászati háttér része. A természetes gránit tömbös és apróbb szemcsés formában is más-más megjelenést ad; a megfelelő anyag kiválasztása a felhasználási céltól függ.",
+      "image": null
+    },
+    {
+      "title": "Lókút",
+      "material": "Mészkő; díszítő-, tömb-, falazó- és burkolókövek",
+      "short": "A lókúti bányaterület mészkövéhez díszítő-, tömb-, falazó- és burkolóanyagok kapcsolódnak. Ezek a kövek épített és kerti környezetben is helyet kaphatnak.",
+      "long": "A lókúti mészkő a vállalkozás természetes kőanyagai között többféle felhasználási formában szerepel. A kapcsolódó kőanyagok között kerti sziklák, szabálytalan terméskövek, kerti tipegők és falazókövek is szerepelnek. Az aktuálisan elérhető feldolgozási formák külön egyeztetést igényelnek.",
+      "image": null
+    },
+    {
+      "title": "Felsőcsatár",
+      "material": "Zöldpala; díszítő-, tömb-, falazó- és burkolókövek",
+      "short": "A felsőcsatári bányaterület jellegzetes anyaga a zöldpala. Díszítőkövek, tömbkövek, valamint falazó- és burkolóanyagok kapcsolódnak ehhez a helyszínhez.",
+      "long": "A felsőcsatári zöldpala karakteres színével a természetes kőanyagok választékát gazdagítja. A kapcsolódó kőanyagok között kerti sziklák, szabálytalan terméskövek, kerti tipegők és falazókövek is szerepelnek. A konkrét felhasználást az adott anyag tulajdonságai és kialakítása határozzák meg.",
+      "image": "assets/felsocsatar.webp"
+    }
+  ]
+}
