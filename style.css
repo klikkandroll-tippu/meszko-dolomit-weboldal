@@ -22,3 +22,18 @@ header{position:fixed;background:rgba(90,64,50,.82);backdrop-filter:blur(14px);-
 .hero .button{margin-top:20px;padding:14px 24px}
 .hero-bottom{bottom:22px}
 }
+
+/* Two-line headline with the CTA accent on its main message. */
+header{background:rgba(90,64,50,.32);backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.hero h1{max-width:1100px;font-size:inherit}
+.hero-title-first,.hero-title-second{display:block}
+.hero-title-first{font-size:clamp(32px,3.6vw,50px);font-weight:500}
+.hero-title-second{font-size:clamp(40px,5.4vw,76px);font-weight:600;color:var(--accent);margin-top:8px}
+@media(max-width:760px){
+.hero-title-first{font-size:clamp(25px,6.2vw,40px)}
+.hero-title-second{font-size:clamp(27px,7.1vw,48px);letter-spacing:-.055em;margin-top:8px}
+}
+@media(max-height:700px) and (min-width:761px){
+.hero-title-first{font-size:clamp(30px,3.3vw,44px)}
+.hero-title-second{font-size:clamp(38px,4.8vw,64px)}
+}
