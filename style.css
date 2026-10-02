@@ -46,3 +46,5 @@ header{background:rgba(90,64,50,.32);backdrop-filter:blur(8px);-webkit-backdrop-
 @media(max-width:760px){.materials-section{padding:60px 0;margin-bottom:65px}.materials-grid,.cooperation{grid-template-columns:1fr}.material-card{padding:24px}.cooperation{gap:15px;margin-top:40px;padding-top:40px}.cooperation h2{margin-bottom:8px}}
 
 .contact-grid .contact-label{display:flex;align-items:center;gap:12px;min-height:30px}.contact-icon{width:27px;height:27px;flex:none;color:var(--accent)}.partner-logo{display:inline-block;max-width:100%;margin-top:20px;padding:20px 24px;background:var(--white);border-radius:16px}.partner-logo img{width:260px;height:auto;max-width:100%}
+
+.hero-title-second{color:#fff}.slide-dots{display:flex;align-items:center;gap:14px}.slide-dot{width:30px;height:30px;border:0;background:transparent;padding:8px;display:grid;place-items:center;border-radius:50%}.slide-dot::before{content:"";display:block;width:12px;height:12px;border:1.5px solid #fff;border-radius:50%;background:transparent}.slide-dot.active::before{background:#fff}.slide-dot:hover::before{box-shadow:0 0 0 3px #ffffff25}
